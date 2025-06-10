@@ -1,0 +1,7 @@
+configuration {
+    font: "JetBrainsMono Nerd Font 12";
+    location: 0;
+    modi: "drun,run,window";
+}
+
+@theme "~/.config/rofi/theme.rasi"
